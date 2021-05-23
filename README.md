@@ -1,9 +1,10 @@
 # prakashsinhabayas.github.io
 Hello,
 
-Thank you for visiting my website. I have tried to maintain my cirriculum vitae in here for your reference.
-
+  I thank you for accessing repository. I have my information for your kind inference.
+  
 Sincerely Yours,
-Prakash
+Prakashsinha
+Bayas
 
-www.prakashsinhabayas.info
+www.apb00741.in
